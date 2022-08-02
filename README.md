@@ -23,6 +23,7 @@
     <li>I am a Junior Front End Web Developer</li>
     <li>I'm currently looking for job as a Frontend Developer</li>
     <li>Love watching anime and movie</li>
+    <li>I’m currently learning everything 🤣
   </ul>
 </div>
 <br/>
