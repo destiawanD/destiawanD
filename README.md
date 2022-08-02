@@ -36,7 +36,8 @@
 ---
 
 ### Operating System
-<img src="http://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white"> <img src=" 	https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img src="http://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white"> 
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 
 ---
 
